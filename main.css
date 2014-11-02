@@ -1,0 +1,96 @@
+/* Color palette
+    image gray: #b8b8b8
+*/
+body{
+    font-family: "Lato";
+    background-color: #ffffff;
+}
+
+/* root Tab with my name */
+.div_root{
+    height:60px; 
+    padding-top: -10px;
+}
+
+/*Where I've worked section */
+.header_workExperience{
+    display:block;
+    color: #858080;
+    font-size: 40px;
+}
+
+#contactBadgeRow{
+    height: 200px !important;   
+    width: 50px !important;
+    margin-left: auto;
+    margin-right: auto;
+    display:inline;
+}
+.badgeRow{
+    width: 900px;
+    height: 800px;
+    margin-left: auto;
+    margin-right:auto;
+    /*padding-bottom: 60px;*/
+}
+.div_amznContainer{
+    width:300px;
+    margin-right: 0px;
+    display: inline;
+ }
+.header_amazonPos{
+    width:300px;   
+}
+.par_desc{
+    width:300px;   
+}
+.div_appleContainer{
+    width:300px;   
+}
+div_oandaContainer{
+    width:300px;   
+}
+.img_amazonBadge{
+    margin-top:220px;
+    margin-bottom:auto;
+    
+    display:inline;
+}
+.img_appleBadge{
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:220px;
+    margin-bottom:auto;
+    
+    display:inline;
+}
+.img_oandaBadge{
+    margin-top:220px;
+    margin-bottom:auto;
+    
+    display:inline;
+}
+
+.header_projects{
+    display:block;
+    color: #858080;
+    font-size: 40px;
+}
+
+.header_contactInfo{
+    display:block;
+    color: #858080;
+    font-size: 40px;
+}
+.img_tapintoBadge{
+    margin-top:220px;
+}
+.img_yncnBadge{
+    margin-left:40px;
+    margin-right:40px; 
+    margin-top:220px;
+}
+.img_nspireBadge{
+    margin-top:220px;   
+}
+
