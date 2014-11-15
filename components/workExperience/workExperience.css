@@ -29,23 +29,21 @@
 div_oandaContainer{
     width:300px;   
 }
+
+.default_badge{
+    margin-top: 170px;
+    height=250px;
+}
 .img_amazonBadge{
-    margin-top:220px;
-    margin-bottom:auto;
-    
     display:inline;
 }
 .img_appleBadge{
     margin-left:50px;
     margin-right:50px;
-    margin-top:220px;
-    margin-bottom:auto;
     
     display:inline;
 }
 .img_oandaBadge{
-    margin-top:220px;
-    margin-bottom:auto;
     
     display:inline;
 }
