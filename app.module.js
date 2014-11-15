@@ -1,6 +1,7 @@
 var PersonalWebApp = angular.module("PersonalWebApp", [
     "homeControllers",
-    "ngRoute"
+    "ngRoute",
+    "smoothScroll"
 ]).config(['$routeProvider','$locationProvider', function($routeProvider,$locationProvider) {
   $routeProvider.
   when("/home", {
