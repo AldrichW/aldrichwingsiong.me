@@ -1,15 +1,15 @@
 /* Main title banner */
 .div_mainBannerColor{
     background-color: #7cccff;
-    height: 610px;
+    height: 1000px;
     margin-left: auto;
     margin-right: auto;
     padding-left: -10px;
     padding-right: -10px;
 }
 .div_mainBanner{
-    height: 400px;
-    width: 1000px;
+    height: 100%;
+    width: auto;
     margin-left: auto;
     margin-right: auto;
     padding-top: 150px;
@@ -22,17 +22,20 @@
     color:#898a8a;
 }
 .header_tagline{
-    padding-top: 60px;
-    text-align: center;
-    font-size: 45px;
+    padding-top: 20px;
+    font-family: "Helvetica Neue";
+    font-weight: lighter;
+    text-align: left;
+    font-size: 120px;
     color:#858080;
-}
-.p_mainQuote{
-    font-size:20px;
-    text-align: center;
+    width:1000px;
+    float:left;
+    
+    margin-left: 40px;
+    margin-right:10px;
 }
 .img_mainPhoto{
-    margin-left: auto ;
-    margin-right: 0px;
-    display: inline;
+    float:right;
+    margin-right: 300px;
+    margin-left: 0px;
 }

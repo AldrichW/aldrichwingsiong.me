@@ -1,0 +1,9 @@
+.div_footer{
+    height:inherit;
+    background-color:#F7924A;
+}
+.copyright{
+    display: inline;
+    text-align:center;
+    color:#898a8a;
+}
