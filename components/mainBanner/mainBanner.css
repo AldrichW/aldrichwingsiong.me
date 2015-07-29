@@ -1,6 +1,7 @@
 /* Main title banner */
 .div_mainBannerColor{
     background-color: #7cccff;
+    background-image: url("../../assets/png/kauai.png");
     height: 1000px;
     margin-left: auto;
     margin-right: auto;
@@ -27,15 +28,17 @@
     font-weight: lighter;
     text-align: left;
     font-size: 120px;
-    color:#858080;
+    color:#ffffff;
     width:1000px;
     float:left;
     
-    margin-left: 40px;
+    margin-left: 150px;
     margin-right:10px;
+    margin-top: 100px;
 }
 .img_mainPhoto{
     float:right;
-    margin-right: 300px;
+    margin-right: 400px;
     margin-left: 0px;
+    margin-top: 80px;
 }
